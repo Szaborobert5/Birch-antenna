@@ -1,5 +1,5 @@
 # Birch-antenna
-This repo represents a work flow of a producing an antenna made out of birch bark. It consists of determining the electrical characteristics of birch bark, designing an antenna based on determined electrical characteristics, fabricating the antenna and testing it
+This repo represents a work flow of producing an antenna made out of birch bark. It consists of determining the electrical characteristics of birch bark, designing an antenna based on determined electrical characteristics, fabricating the antenna and testing it.
 
 ## Features 
 - Characterization
@@ -24,7 +24,7 @@ This repo represents a work flow of a producing an antenna made out of birch bar
 After the measurements we have the following : <img src="https://latex.codecogs.com/svg.image?\varepsilon_r" /> = 1.19, thickness = 0.0198mm, loss factor = 0.002
 
 ### 2. Antenna design 
-- A patch antenna was designed in CST and then it was simulated
+- A patch antenna was designed in CST and then it was simulated.
 
 <p align = "center">
   <img src = "https://github.com/Szaborobert5/Birch-antenna/blob/main/Antenna.png" width = "25%"/>
@@ -41,7 +41,7 @@ After the measurements we have the following : <img src="https://latex.codecogs.
 
 ### 4. Testing
 
-- For testing I used a VNA. The goal is to see how far is the simulation compared to real.
+- For testing I used a VNA. The goal is to see how far is the simulation compared to real life testing.
 
 <p align = "center">
   <img src = "https://github.com/Szaborobert5/Birch-antenna/blob/main/S11_IRL.png" width = "50%"/>
