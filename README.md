@@ -5,6 +5,7 @@ This repo represents a work flow of a producing an antenna made out of birch bar
 - Characterization
 - Testing with VNA
 - A method of fabrication
+- Testing
 
 ## Work-flow
 
